@@ -1,4 +1,4 @@
-# SuImkaniveCocukOlumOraniRegresyonAnalizi
+# Ülkeler baz alındığında Temel İçme Suyuna Sahip Olmanın, Çocukların Ölümü Üzerine Etkisi
 
 İncelediğiniz kaggle not defteri sadece kodları içermektedir.
 
